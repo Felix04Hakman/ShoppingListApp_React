@@ -1,3 +1,5 @@
 body{
-  background-color: $primary;
+  background: $primary; //url('/images/background.png') no-repeat center/cover;
+  background: url("https://image.freepik.com/free-vector/pattern-about-shopping_1061-495.jpg");
+  min-height: 100vh;
 }
