@@ -1,13 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
 import './sass/main.scss';
+import {NewItemForm} from "./components/NewItemForm";
+import {Header} from "./components/Header";
+
 
 function App() {
-  return (
-    <div className="App">
-
-    </div>
-  );
+    return (<>
+        <div className="App">
+            <Header/>
+            <NewItemForm/>
+        </div>
+    </>);
 }
 
 export default App;
