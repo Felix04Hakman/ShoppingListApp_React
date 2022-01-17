@@ -1,7 +1,12 @@
-# Getting Started with Create React App
+# Shopping List 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+I  based this project on :
+<ul>
+  <li>React</li>
+  <li>Sass</li>
+  <li>TypeScript</>
+ #-------------------------------------------------------------------------------------------------------   
 ## Available Scripts
 
 In the project directory, you can run:
